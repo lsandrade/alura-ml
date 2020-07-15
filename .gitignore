@@ -112,3 +112,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+imdb-reviews-pt-br.csv
