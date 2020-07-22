@@ -114,3 +114,4 @@ dmypy.json
 .pyre/
 
 imdb-reviews-pt-br.csv
+.DS_Store
